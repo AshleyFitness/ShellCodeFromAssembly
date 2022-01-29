@@ -6,8 +6,8 @@ example :
 
 # Destinated to assembly executables
 Example 
-````
-```assembly
+````assembly
+```
   global _start 
 _start:
 jmp short string 
