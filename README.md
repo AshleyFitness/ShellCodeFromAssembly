@@ -2,7 +2,7 @@
 Take in argument an executable file and generate an shellcode from it 
 
 example : 
-./shellcodegenerator <program>
+./shellcodegenerator program
 
 # Destinated to assembly executables
 Example 
